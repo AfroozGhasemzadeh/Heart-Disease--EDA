@@ -1,4 +1,6 @@
 # Heart-Disease-EDA
+This project explores a heart disease dataset from Kaggle through structured exploratory data analysis (EDA).  
+The goal is to detect noise and outliers, visualize important patterns, and understand which features may influence the presence of heart disease.
 # ❤️ Heart Disease EDA — Outlier Detection & Feature Exploration
 This project performs an exploratory data analysis (EDA) on a heart disease dataset containing multiple clinical and lifestyle features.
 The goal is to understand the structure of the data, detect noise and outliers, visualize important patterns, and explore which features may influence the presence of heart disease.
